@@ -69,14 +69,19 @@ The project can also be run in a Python IDE for Android, such as Pydroid 3.
 | `https://xn--e1afmkfd.example` | Punycode-style hostname warning. |
 | `http://[bad` | Invalid URL format message; program continues accepting input. |
 
-See `tests/test_samples.md` for the test log.
+See `test_samples.md` in the repository for the test log.
 
 ## Screenshots
 
-Genuine screenshots of the program runs are included in the `screenshots/` folder.
+## Screenshots
 
-- `sample_run.jpg` — Sample URL checks and warning messages.
-- `test_results.jpg` — Malformed URL handling and additional test output.
+The following screenshots show actual execution of the program:
+
+### Sample URL Checks
+![Sample Run](sample_run.jpg)
+
+### Invalid URL Handling
+![Test Results](test_results.jpg)
 
 ## Limitations
 

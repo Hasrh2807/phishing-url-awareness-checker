@@ -77,11 +77,13 @@ See `test_samples.md` in the repository for the test log.
 
 The following screenshots show actual execution of the program:
 
-### Sample URL Checks
-![Sample Run](sample_run.jpg)
+## Screenshots
 
-### Invalid URL Handling
-![Test Results](test_results.jpg)
+### Sample Run
+![Sample Run](Screenshot_20261031_210002.jpg)
+
+### Test Results
+![Test Results](Screenshot_20261031_210656.jpg)
 
 ## Limitations
 
